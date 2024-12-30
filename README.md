@@ -5,13 +5,11 @@
 
 This project, **HIM-24**, focuses on optimizing task difficulty in a dual-task balancing game. Using concepts from the *Modeling Interaction* class, our team developed a predictive model to estimate player performance based on game difficulty, enabling personalized and enjoyable gaming experiences.
 
----
 
 ## Objectives
 
 The primary goal is to ensure players enjoy the game by dynamically adjusting the difficulty level to maintain an appropriate level of challenge for each individual.
 
----
 
 ## Game Design
 
@@ -20,7 +18,6 @@ The primary goal is to ensure players enjoy the game by dynamically adjusting th
   - **Arrow keys** for tilting.
   - **Tab key** to switch between discs.
 
----
 
 ## Predictive Model Development
 
@@ -49,7 +46,6 @@ Our predictive model dynamically adjusts game parameters (e.g., target size, spe
 7. **Build the Predictive Model**  
    Use collected data to create a model that adjusts difficulty dynamically for each player.
 
----
 
 ## Key Findings
 
@@ -60,7 +56,6 @@ Our predictive model dynamically adjusts game parameters (e.g., target size, spe
   - **MSE**: 7.2992
   - **R² Score**: 0.7657
 
----
 
 ## Conclusion
 
@@ -69,6 +64,11 @@ The Dual-Task Balancing Game served as the principal platform for optimizing tas
 Although determining an optimal target duration was challenging, user feedback indicated a preference for the widest disc configuration due to perceived excessive difficulty in other conditions. As a result, target durations were adjusted to align with participants’ comfort levels.
 
 These findings underscore the efficacy of the predictive model in identifying and refining the game’s difficulty. The model facilitates more adaptable and user-centered gameplay experiences, enabling fair and engaging challenges for all players.
+
+---
+## Note
+
+You can access the full paper [here](https://github.com/hak3601/HIM-24/blob/main/paper.pdf). Please note that this paper is a report formatted in ACM style, created as a learning exercise to gain experience in writing a formal research paper.
 
 ---
 
