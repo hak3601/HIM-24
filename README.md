@@ -1,4 +1,5 @@
 # HIM-24: Model-Based Game Difficulty Optimization
+## Title : [Balancing the Impossible: Understanding Human Performance in Multitasking Challenges](https://github.com/hak3601/HIM-24/blob/main/paper.pdf)
 
 ## Overview
 
