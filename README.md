@@ -76,3 +76,8 @@ These findings underscore the efficacy of the predictive model in identifying an
 
 Sumin Kim, *Htet Arkar*, Suho Moon, Yejin Jang
 
+---
+## Reference
+
+Lingler, Alexander, et al. "Supporting Task Switching with Reinforcement Learning." *Proceedings of the CHI Conference on Human Factors in Computing Systems*. 2024.(https://dl.acm.org/doi/pdf/10.1145/3613904.3642063)
+
