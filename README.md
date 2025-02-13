@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project, **HIM-24**, focuses on optimizing task difficulty in a dual-task balancing game. Using concepts from the *Modeling Interaction* class, our team developed a predictive model to estimate player performance based on game difficulty, enabling personalized and enjoyable gaming experiences.
+This project, **HIM-24**, focuses on optimizing task difficulty in a dual-task balancing game. Using concepts from the *Human Interface Media (휴먼인터페이스미디어)* class, our team developed a predictive model to estimate player performance based on game difficulty, enabling personalized and enjoyable gaming experiences.
 
 
 ## Objectives
